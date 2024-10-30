@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <img src="[https://files.catbox.moe/ockgwx.jpg](https://envs.sh/_w2.jpg)">
+  <img src="https://envs.sh/_w2.jpg">
 </p>
 
 <p align="center">
