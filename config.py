@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002078546505"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1001970031336"))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", "7282582221"))
+OWNER_ID = int(getenv("OWNER_ID", "6260080241"))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/anilkumarmishraji/RADHA_MUSIC",
+    "https://github.com/MAHTO-ANJALI/ANJALIMUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -67,10 +67,10 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TG_style_name_bio")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/FRIEND_KI_MASTI")
-SOURCE = getenv("SOURCE", "https://github.com/anilkumarmishraji/RADHA_MUSIC")
-CHAT = getenv("CHAT", "https://t.me/FRIEND_KI_MASTI")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ANJALIWORLD")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ANJALIWORLD")
+SOURCE = getenv("SOURCE", "https://github.com/MAHTO-ANJALI/ANJALIMUSIC")
+CHAT = getenv("CHAT", "https://t.me/ANJALIWORLD")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
